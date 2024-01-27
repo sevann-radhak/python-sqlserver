@@ -2,6 +2,7 @@ import PersonService
 import PersonModel
 
 if __name__ == "__main__":      
+    
     #Get
     persons = PersonService.PersonService.get()
     
